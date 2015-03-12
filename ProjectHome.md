@@ -1,0 +1,2 @@
+Anty leverages the Apache Ant API to create a better java compiler than the standard javac.
+I.E. it can compile all java files recursively from a specified directory to a target directory and it even copies all resources as well.
